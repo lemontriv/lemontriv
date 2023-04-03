@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 
+Univ: 성균관대학교(SKKU)
 
 Discord : 레몬#1684
 
