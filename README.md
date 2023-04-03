@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 
-Discord : 레몬#1684\n
-Email: hananone47@gmail.com\n
+
+Discord : 레몬#1684
+
+Email: hananone47@gmail.com
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={gsdgsdgh})](https://solved.ac/{gsdgsdgh})
