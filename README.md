@@ -20,4 +20,4 @@ Discord : 레몬#1684
 
 Email: hananone47@gmail.com
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gsdgsdgh)](https://solved.ac/gsdgsdgh)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gsdgsdgh)](https://solved.ac/gsdgsdgh)
