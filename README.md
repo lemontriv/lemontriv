@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 Univ: 성균관대학교(SKKU)
 
-Discord : 레몬#1684
-
-Email: hananone47@gmail.com
+Contact : None
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gsdgsdgh)](https://solved.ac/gsdgsdgh)
